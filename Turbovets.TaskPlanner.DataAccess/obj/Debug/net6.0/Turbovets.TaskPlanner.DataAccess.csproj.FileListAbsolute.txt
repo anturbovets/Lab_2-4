@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess\bin\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.deps.json
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess\bin\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.dll
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess\bin\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.pdb
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess\bin\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess\bin\Debug\net6.0\Turbovets.TaskPlanner.Domain.Models.dll
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess\bin\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess\bin\Debug\net6.0\Turbovets.TaskPlanner.Domain.Models.pdb
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess\obj\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess\obj\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess\obj\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess\obj\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess\obj\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess\obj\Debug\net6.0\Turbovet.1F9C665E.Up2Date
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess\obj\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.dll
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess\obj\Debug\net6.0\refint\Turbovets.TaskPlanner.DataAccess.dll
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess\obj\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.pdb
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess\obj\Debug\net6.0\ref\Turbovets.TaskPlanner.DataAccess.dll

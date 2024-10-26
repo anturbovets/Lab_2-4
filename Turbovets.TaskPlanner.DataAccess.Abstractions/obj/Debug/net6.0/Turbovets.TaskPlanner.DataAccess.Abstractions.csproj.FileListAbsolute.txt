@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.Abstractions.deps.json
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\Turbovets.TaskPlanner.Domain.Models.dll
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\Turbovets.TaskPlanner.Domain.Models.pdb
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.Abstractions.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.Abstractions.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.Abstractions.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Turbovet.45736CBC.Up2Date
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\refint\Turbovets.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Turbovets.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\ref\Turbovets.TaskPlanner.DataAccess.Abstractions.dll
