@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.Domain.Models\bin\Debug\net6.0\Turbovets.TaskPlanner.Domain.Models.deps.json
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.Domain.Models\bin\Debug\net6.0\Turbovets.TaskPlanner.Domain.Models.dll
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.Domain.Models\bin\Debug\net6.0\Turbovets.TaskPlanner.Domain.Models.pdb
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.Domain.Models\obj\Debug\net6.0\Turbovets.TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.Domain.Models\obj\Debug\net6.0\Turbovets.TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.Domain.Models\obj\Debug\net6.0\Turbovets.TaskPlanner.Domain.Models.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.Domain.Models\obj\Debug\net6.0\Turbovets.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.Domain.Models\obj\Debug\net6.0\Turbovets.TaskPlanner.Domain.Models.dll
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.Domain.Models\obj\Debug\net6.0\refint\Turbovets.TaskPlanner.Domain.Models.dll
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.Domain.Models\obj\Debug\net6.0\Turbovets.TaskPlanner.Domain.Models.pdb
+C:\Users\ASUS\Desktop\Turbovets.TaskPlanner\Turbovets.TaskPlanner.Domain.Models\obj\Debug\net6.0\ref\Turbovets.TaskPlanner.Domain.Models.dll
