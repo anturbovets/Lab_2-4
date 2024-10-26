@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Turbovets.TaskPlanner.Domain.Logic/1.0.0": {
+        "dependencies": {
+          "Turbovets.TaskPlanner.DataAccess.Abstractions": "1.0.0",
+          "Turbovets.TaskPlanner.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "Turbovets.TaskPlanner.Domain.Logic.dll": {}
+        }
+      },
+      "Turbovets.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+        "dependencies": {
+          "Turbovets.TaskPlanner.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "Turbovets.TaskPlanner.DataAccess.Abstractions.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Turbovets.TaskPlanner.Domain.Models/1.0.0": {
+        "runtime": {
+          "Turbovets.TaskPlanner.Domain.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Turbovets.TaskPlanner.Domain.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Turbovets.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Turbovets.TaskPlanner.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
